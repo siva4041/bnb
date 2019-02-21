@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Woodmart Child
+ Description:  Woodmart Child Theme
+ Author:       XTemos
+ Author URI:   http://xtemos.com
+ Template:     woodmart
+ Version:      1.0.0
+ Text Domain:  woodmart
+*/
+label.selectedswatch.wcva_single_textblock {
+    background: #333 !important;
+    color: #fff !important;
+}
+
+.variations_form .variations label:after {
+    content: "" !important;
+}
